@@ -1,7 +1,7 @@
 # Projeto Fitness Center em Java Swing
 ![Fitness Center](build/classes/Images/logoMenu.png)
 
-Este é um projeto de uma academia desenvolvido em Java Swing. O objetivo deste projeto é criar um sistema de gerenciamento para uma academia, permitindo o cadastro de alunos, entre outras funcionalidades.
+Projeto desenvolvido para fins academicos de uma academia em Java Swing. O objetivo deste projeto é criar um sistema de gerenciamento para uma academia, permitindo o cadastro de alunos, entre outras funcionalidades
 
 ## Funcionalidades
 
@@ -44,9 +44,9 @@ Este é um projeto de uma academia desenvolvido em Java Swing. O objetivo deste 
 
 ## Contribuição
 
-* JOSE VICTOR EMILIANO DA SILVA - 1282413186
-* RODRIGO ENEDINO VALENCA - 12058605411
-*  VINIVY GABRIEL DE MENEZES TEIXEIRA - 12824117459
+* RODRIGO ENEDINO VALENCA
+* JOSE VICTOR EMILIANO DA SILVA (https://github.com/josevictoremiliano)
+*  VINIVY GABRIEL DE MENEZES TEIXEIRA
 
 ## Banco de dados 
 ```sql
