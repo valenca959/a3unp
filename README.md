@@ -1,5 +1,5 @@
 # Projeto Fitness Center em Java Swing
-![Fitness Center](src/Images/logoMenu.png)
+![Fitness Center](./src/Images/logoMenu.png)
 
 Este é um projeto de uma academia desenvolvido em Java Swing. O objetivo deste projeto é criar um sistema de gerenciamento para uma academia, permitindo o cadastro de alunos, entre outras funcionalidades.
 
